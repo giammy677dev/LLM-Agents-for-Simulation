@@ -20,7 +20,7 @@ We welcome contributions from the community to help us expand and enrich this re
 
 ## Papers
 
-> 🔥 for papers with >50 citations or repositories with >200 stars.\
+> 🔥 for papers with >20 citations or repositories with >50 stars.\
 > 📖 for papers accepted by reputed conferences/journals.
 
 ### Healthcare
@@ -35,7 +35,7 @@ We welcome contributions from the community to help us expand and enrich this re
 
 ### Social Network Analysis
 
-* [Oct 2023] **"S3: Social-network Simulation System with Large Language Model-Empowered Agents"** *C. Gao et al.* arXiv. [Paper](https://arxiv.org/abs/2307.14984)
+* 🔥 [Oct 2023] **"S3: Social-network Simulation System with Large Language Model-Empowered Agents"** *C. Gao et al.* arXiv. [Paper](https://arxiv.org/abs/2307.14984)
 
 ## Contributors
 

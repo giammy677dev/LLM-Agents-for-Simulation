@@ -1,4 +1,4 @@
-# LLM-Agents-Papers-for-Simulation
+# LLM-Agents-for-Simulation
 
 ## :house: Introduction
 

@@ -14,6 +14,7 @@ We welcome contributions from the community to help us expand and enrich this re
 
 - [Papers](#papers)
   - [Healthcare](#healthcare)
+  - [Recommender Systems](#recommender-systems)
   - [Social Dynamics](#social-dynamics)
   - [Social Network Analysis](#social-network-analysis)
 - [Contributors](#contributors)
@@ -26,6 +27,10 @@ We welcome contributions from the community to help us expand and enrich this re
 ### Healthcare
 
 * [Jul 2023] **"Epidemic Modeling with Generative Agents"**, *R. Williams et al.* [Paper](https://arxiv.org/abs/2307.04986) - [Code](https://github.com/bear96/GABM-Epidemic)
+
+### Recommender Systems
+
+* 🔥 [Feb 2024] **"User Behavior Simulation with Large Language Model based Agents"**, *L. Wang et al.* [Paper](https://arxiv.org/abs/2306.02552) - [Code](https://github.com/RUC-GSAI/YuLan-Rec)
 
 ### Social Dynamics
 

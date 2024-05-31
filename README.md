@@ -40,6 +40,8 @@ We welcome contributions from the community to help us expand and enrich this re
 
 * [Set 2023] **"Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence"**, *N. Ghaffarzadegan et al.* [Paper](https://arxiv.org/abs/2309.11456) - [Code](https://colab.research.google.com/drive/1lwPKUuoVtfnVudy9UnGiKwGeOXflOl2j?usp=sharing)
 
+* 🔥 [Aug 2023] **"Generative Agents: Interactive Simulacra of Human Behavior"**, *N. Park et al.* [Paper](https://arxiv.org/abs/2304.03442) - [Code](https://github.com/joonspk-research/generative_agents)
+
 ### Social Network Analysis
 
 * [Mar 2024] **"LLM-Driven Agents for Influencer Selection in Digital Advertising Campaigns"**, *X. Zhang et al.* [Paper](https://arxiv.org/abs/2403.15105) - [Code](https://anonymous.4open.science/r/IDS-8D8E)

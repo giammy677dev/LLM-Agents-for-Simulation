@@ -46,6 +46,8 @@ We welcome contributions from the community to help us expand and enrich this re
 
 ### Social Network Analysis
 
+* [May 2024] **"Language Evolution for Evading Social Media Regulation via LLM-based Multi-agent Simulation"**, *J. Cai et al.* [Paper](https://arxiv.org/abs/2405.02858) - [Code](https://github.com/BlueLinkX/GA-MAS)
+
 * [Mar 2024] **"LLM-Driven Agents for Influencer Selection in Digital Advertising Campaigns"**, *X. Zhang et al.* [Paper](https://arxiv.org/abs/2403.15105) - [Code](https://anonymous.4open.science/r/IDS-8D8E)
 
 * 🔥 [Oct 2023] **"S3: Social-network Simulation System with Large Language Model-Empowered Agents"**, *C. Gao et al.* [Paper](https://arxiv.org/abs/2307.14984)

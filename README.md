@@ -46,6 +46,8 @@ We welcome contributions from the community to help us expand and enrich this re
 
 ### Social Network Analysis
 
+* [Jan 2025] **"Agent-Based Modelling Meets Generative AI in Social Network Simulations"**, *A. Ferraro et al.* [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78541-2_10)
+
 * [May 2024] **"Language Evolution for Evading Social Media Regulation via LLM-based Multi-agent Simulation"**, *J. Cai et al.* [Paper](https://arxiv.org/abs/2405.02858) - [Code](https://github.com/BlueLinkX/GA-MAS)
 
 * [Mar 2024] **"LLM-Driven Agents for Influencer Selection in Digital Advertising Campaigns"**, *X. Zhang et al.* [Paper](https://arxiv.org/abs/2403.15105) - [Code](https://anonymous.4open.science/r/IDS-8D8E)

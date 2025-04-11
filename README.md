@@ -16,7 +16,7 @@ We welcome contributions from the community to help us expand and enrich this re
   - [Healthcare](#healthcare)
   - [Recommender Systems](#recommender-systems)
   - [Social Dynamics](#social-dynamics)
-  - [Social Network Analysis](#social-network-analysis)
+  - [Social Media](#social-media)
 - [Contributors](#contributors)
 
 ## Papers
@@ -32,7 +32,7 @@ We welcome contributions from the community to help us expand and enrich this re
 
 * 🔥 [Feb 2024] **"User Behavior Simulation with Large Language Model based Agents"**, *L. Wang et al.* [Paper](https://arxiv.org/abs/2306.02552) - [Code](https://github.com/RUC-GSAI/YuLan-Rec)
 
-* [Oct 2023] **"Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms"**, *P. Törnberg et al.* [Paper](https://arxiv.org/abs/2310.05984)
+* 🔥 [Oct 2023] **"Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms"**, *P. Törnberg et al.* [Paper](https://arxiv.org/abs/2310.05984)
 
 ### Social Dynamics
 
@@ -40,15 +40,15 @@ We welcome contributions from the community to help us expand and enrich this re
 
 * [Dec 2023] **"Smart Agent-Based Modeling: On the Use of Large Language Models in Computer Simulations"**, *Z. Wu et al.* [Paper](https://arxiv.org/abs/2311.06330) - [Code](https://github.com/Roihn/SABM)
 
-* 🔥📖 [Set 2023] **"Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence"**, *N. Ghaffarzadegan et al.* [Paper](https://arxiv.org/abs/2309.11456) - [Code](https://colab.research.google.com/drive/1lwPKUuoVtfnVudy9UnGiKwGeOXflOl2j?usp=sharing)
+* 🔥📖 [Set 2023] **"Generative agent-based modeling: an introduction and tutorial"**, *N. Ghaffarzadegan et al.* [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/sdr.1761) - [Code](https://github.com/bear96/GABM-Tutorial-Models)
 
-* 🔥📖 [Aug 2023] **"Generative Agents: Interactive Simulacra of Human Behavior"**, *J. S. Park et al.* [Paper](https://arxiv.org/abs/2304.03442) - [Code](https://github.com/joonspk-research/generative_agents)
+* 🔥📖 [Aug 2023] **"Generative Agents: Interactive Simulacra of Human Behavior"**, *J. S. Park et al.* [Paper](https://dl.acm.org/doi/abs/10.1145/3586183.3606763) - [Code](https://github.com/joonspk-research/generative_agents)
 
-### Social Network Analysis
+### Social Media
 
 * 📖 [Jan 2025] **"Agent-Based Modelling Meets Generative AI in Social Network Simulations"**, *A. Ferraro et al.* [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78541-2_10)
 
-* [May 2024] **"Language Evolution for Evading Social Media Regulation via LLM-based Multi-agent Simulation"**, *J. Cai et al.* [Paper](https://arxiv.org/abs/2405.02858) - [Code](https://github.com/BlueLinkX/GA-MAS)
+* 📖 [May 2024] **"Language Evolution for Evading Social Media Regulation via LLM-based Multi-agent Simulation"**, *J. Cai et al.* [Paper](https://ieeexplore.ieee.org/abstract/document/10612015) - [Code](https://github.com/BlueLinkX/GA-MAS)
 
 * [Mar 2024] **"LLM-Driven Agents for Influencer Selection in Digital Advertising Campaigns"**, *X. Zhang et al.* [Paper](https://arxiv.org/abs/2403.15105) - [Code](https://anonymous.4open.science/r/IDS-8D8E)
 

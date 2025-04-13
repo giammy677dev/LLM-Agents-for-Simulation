@@ -30,7 +30,7 @@ We welcome contributions from the community to help us expand and enrich this re
 
 ### Recommender Systems
 
-* 🔥 [Feb 2024] **"User Behavior Simulation with Large Language Model based Agents"**, *L. Wang et al.* [Paper](https://arxiv.org/abs/2306.02552) - [Code](https://github.com/RUC-GSAI/YuLan-Rec)
+* 🔥📖 [Feb 2024] **"User Behavior Simulation with Large Language Model based Agents"**, *L. Wang et al.* [Paper](https://dl.acm.org/doi/10.1145/3708985) - [Code](https://github.com/RUC-GSAI/YuLan-Rec)
 
 * 🔥 [Oct 2023] **"Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms"**, *P. Törnberg et al.* [Paper](https://arxiv.org/abs/2310.05984)
 

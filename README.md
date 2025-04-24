@@ -17,6 +17,7 @@ We welcome contributions from the community to help us expand and enrich this re
   - [Recommender Systems](#recommender-systems)
   - [Social Dynamics](#social-dynamics)
   - [Social Media](#social-media)
+- [Tools & Frameworks](#tools-&-frameworks)
 - [Contributors](#contributors)
 
 ## Papers
@@ -36,8 +37,6 @@ We welcome contributions from the community to help us expand and enrich this re
 
 ### Social Dynamics
 
-* 🔥 [Dec 2023] **"Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia"**, *A. S. Vezhnevets et al.* [Paper](https://arxiv.org/abs/2312.03664) - [Code](https://github.com/google-deepmind/concordia)
-
 * [Dec 2023] **"Smart Agent-Based Modeling: On the Use of Large Language Models in Computer Simulations"**, *Z. Wu et al.* [Paper](https://arxiv.org/abs/2311.06330) - [Code](https://github.com/Roihn/SABM)
 
 * 🔥📖 [Set 2023] **"Generative agent-based modeling: an introduction and tutorial"**, *N. Ghaffarzadegan et al.* [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/sdr.1761) - [Code](https://github.com/bear96/GABM-Tutorial-Models)
@@ -50,9 +49,15 @@ We welcome contributions from the community to help us expand and enrich this re
 
 * 📖 [May 2024] **"Language Evolution for Evading Social Media Regulation via LLM-based Multi-agent Simulation"**, *J. Cai et al.* [Paper](https://ieeexplore.ieee.org/abstract/document/10612015) - [Code](https://github.com/BlueLinkX/GA-MAS)
 
-* [Mar 2024] **"LLM-Driven Agents for Influencer Selection in Digital Advertising Campaigns"**, *X. Zhang et al.* [Paper](https://arxiv.org/abs/2403.15105) - [Code](https://anonymous.4open.science/r/IDS-8D8E)
+* 📖 [Feb 2024] **"Polarization of Autonomous Generative AI Agents Under Echo Chambers"**, *M. Ohagi* [Paper](https://aclanthology.org/2024.wassa-1.10/) - [Code](https://github.com/BlueLinkX/GA-MAS)
 
 * 🔥 [Oct 2023] **"S3: Social-network Simulation System with Large Language Model-Empowered Agents"**, *C. Gao et al.* [Paper](https://arxiv.org/abs/2307.14984)
+
+* [Jul 2023] **"Are you in a Masquerade? Exploring the Behavior and Impact of Large Language Model Driven Social Bots in Online Social Networks"**, *S. Li et al.* [Paper](https://arxiv.org/abs/2307.10337) - [Dataset](https://github.com/Litsay/Masquerade-23)
+
+## Tools & Frameworks
+
+* [Dec 2023] **"Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia"**, *A. S. Vezhnevets et al.* [Paper](https://arxiv.org/abs/2312.03664) - [Code](https://github.com/google-deepmind/concordia)
 
 ## Contributors
 

@@ -17,7 +17,7 @@ We welcome contributions from the community to help us expand and enrich this re
   - [Recommender Systems](#recommender-systems)
   - [Social Dynamics](#social-dynamics)
   - [Social Media](#social-media)
-- [Tools & Frameworks](#tools-frameworks)
+- [Tools & Frameworks](#tools-and-frameworks)
 - [Contributors](#contributors)
 
 ## Papers

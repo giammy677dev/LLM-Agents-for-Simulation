@@ -17,7 +17,7 @@ We welcome contributions from the community to help us expand and enrich this re
   - [Recommender Systems](#recommender-systems)
   - [Social Dynamics](#social-dynamics)
   - [Social Media](#social-media)
-- [Tools & Frameworks](#tools-and-frameworks)
+- [Frameworks](#frameworks)
 - [Contributors](#contributors)
 
 ## Papers
@@ -55,7 +55,7 @@ We welcome contributions from the community to help us expand and enrich this re
 
 * [Jul 2023] **"Are you in a Masquerade? Exploring the Behavior and Impact of Large Language Model Driven Social Bots in Online Social Networks"**, *S. Li et al.* [Paper](https://arxiv.org/abs/2307.10337) - [Dataset](https://github.com/Litsay/Masquerade-23)
 
-## Tools & Frameworks
+## Frameworks
 
 * [Dec 2023] **"Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia"**, *A. S. Vezhnevets et al.* [Paper](https://arxiv.org/abs/2312.03664) - [Code](https://github.com/google-deepmind/concordia)
 

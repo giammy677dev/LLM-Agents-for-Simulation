@@ -57,7 +57,9 @@ We welcome contributions from the community to help us expand and enrich this re
 
 ## Frameworks
 
-* [Dec 2023] **"Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia"**, *A. S. Vezhnevets et al.* [Paper](https://arxiv.org/abs/2312.03664) - [Code](https://github.com/google-deepmind/concordia)
+* **"Concordia"**, [Paper](https://arxiv.org/abs/2312.03664) - [Code](https://github.com/google-deepmind/concordia)
+
+* **"iAgents"**, [Paper](https://arxiv.org/abs/2406.14928) - [Code](https://github.com/thinkwee/iAgents)
 
 ## Contributors
 

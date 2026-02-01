@@ -28,13 +28,13 @@ We welcome contributions from the community to help us expand and enrich this re
 
 ### Healthcare
 
-* 🔥 [2023] **"Epidemic Modeling with Generative Agents"**, *R. Williams et al.* [Paper](https://arxiv.org/abs/2307.04986)
+* 🔥 [2023] **"Epidemic Modeling with Generative Agents"**, *R. Williams et al.* [Paper](https://arxiv.org/abs/2307.04986) - [Code](https://github.com/bear96/GABM-Epidemic)
 
 ### Recommender Systems
 
-* 🔥📖 [2024] **"User Behavior Simulation with Large Language Model based Agents"**, *L. Wang et al.* [Paper](https://dl.acm.org/doi/10.1145/3708985)
+* 🔥📖 [2024] **"User Behavior Simulation with Large Language Model based Agents"**, *L. Wang et al.* [Paper](https://dl.acm.org/doi/10.1145/3708985) - [Code](https://github.com/RUC-GSAI/YuLan-Rec)
 
-* 🔥📖 [2024] **"AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems"**, *J. Zhang et al.* [Paper](https://dl.acm.org/doi/10.1145/3589334.3645537)
+* 🔥📖 [2024] **"AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems"**, *J. Zhang et al.* [Paper](https://dl.acm.org/doi/10.1145/3589334.3645537) - [Code](https://github.com/RUCAIBox/AgentCF)
 
 * 🔥 [2023] **"Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms"**, *P. Törnberg et al.* [Paper](https://arxiv.org/abs/2310.05984)
 
@@ -42,33 +42,33 @@ We welcome contributions from the community to help us expand and enrich this re
 
 * 🔥📖 [2023] **"Generative Agents: Interactive Simulacra of Human Behavior"**, *J. S. Park et al.* [Paper](https://dl.acm.org/doi/abs/10.1145/3586183.3606763)
 
-* 🔥📖 [2023] **"Generative agent-based modeling: an introduction and tutorial"**, *N. Ghaffarzadegan et al.* [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/sdr.1761)
+* 🔥📖 [2023] **"Generative agent-based modeling: an introduction and tutorial"**, *N. Ghaffarzadegan et al.* [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/sdr.1761) - [Code](https://github.com/bear96/GABM-Tutorial-Models)
 
-* 🔥 [2023] **"Smart Agent-Based Modeling: On the Use of Large Language Models in Computer Simulations"**, *Z. Wu et al.* [Paper](https://arxiv.org/abs/2311.06330)
+* 🔥 [2023] **"Smart Agent-Based Modeling: On the Use of Large Language Models in Computer Simulations"**, *Z. Wu et al.* [Paper](https://arxiv.org/abs/2311.06330) - [Code](https://github.com/Roihn/SABM)
 
-* 🔥 [2023] **"War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars"**, *W. Hua et al.* [Paper](https://arxiv.org/abs/2311.17227)
+* 🔥 [2023] **"War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars"**, *W. Hua et al.* [Paper](https://arxiv.org/abs/2311.17227) - [Code](https://github.com/agiresearch/WarAgent)
 
-* 🔥 [2023] **"Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering"**, *E. Junprung* [Paper](https://arxiv.org/abs/2308.07411)
+* 🔥 [2023] **"Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering"**, *E. Junprung* [Paper](https://arxiv.org/abs/2308.07411) - [Code](https://github.com/ejunprung/llm-agents)
 
 * 🔥 [2023] **"Simulating Public Administration Crisis: A Novel Generative Agent-Based Simulation System to Lower Technology Barriers in Social Science Research"**, *B. Xiao et al.* [Paper](https://arxiv.org/pdf/2311.06957)
 
 * 🔥 [2023] **"Lyfe Agents: Generative agents for low-cost real-time social interactions"**, *Z. Kaiya et al.* [Paper](https://arxiv.org/pdf/2310.02172)
 
-* 🔥 [2023] **"Humanoid Agents: Platform for Simulating Human-like Generative Agents"**, *Z. Wang et al.* [Paper](https://aclanthology.org/2023.emnlp-demo.15.pdf)
+* 🔥 [2023] **"Humanoid Agents: Platform for Simulating Human-like Generative Agents"**, *Z. Wang et al.* [Paper](https://aclanthology.org/2023.emnlp-demo.15.pdf) - [Code](https://github.com/HumanoidAgents/HumanoidAgents)
 
-* [2024] **"Cultural evolution in populations of Large Language Models"**, *J. Perez et al.* [Paper](https://arxiv.org/abs/2403.08882)
+* [2024] **"Cultural evolution in populations of Large Language Models"**, *J. Perez et al.* [Paper](https://arxiv.org/abs/2403.08882) - [Code](https://github.com/flowersteam/LLM-Culture)
 
 * 🔥 📖 [2024] **"Escalation Risks from Language Models in Military and Diplomatic Decision-Making"**, *J. P. Rivera et al.* [Paper](https://dl.acm.org/doi/pdf/10.1145/3630106.3658942)
 
-* 🔥 [2024] **"Generative Agent Simulations of 1,000 People"**, *J. S. Park et al.* [Paper](https://arxiv.org/pdf/2411.10109)
+* 🔥 [2024] **"Generative Agent Simulations of 1,000 People"**, *J. S. Park et al.* [Paper](https://arxiv.org/pdf/2411.10109) - [Code](https://github.com/StanfordHCI/genagents)
 
-* 🔥 📖 [2024] **"Simulating Opinion Dynamics with Networks of LLM-based Agents"**, *Y. Chuang et al.* [Paper](https://aclanthology.org/2024.findings-naacl.211.pdf)
+* 🔥 📖 [2024] **"Simulating Opinion Dynamics with Networks of LLM-based Agents"**, *Y. Chuang et al.* [Paper](https://aclanthology.org/2024.findings-naacl.211.pdf) - [Code](https://github.com/yunshiuan/llm-agent-opinion-dynamics)
 
 * 🔥 [2024] **"ElectionSim: Massive Population Election Simulation Powered by Large Language Model Driven Agents"**, *X. Zhang et al.* [Paper](https://arxiv.org/pdf/2410.20746)
 
 * 🔥 [2024] **"The Wisdom of Partisan Crowds: Comparing Collective Intelligence in Humans and LLM-based Agents"**, *Y. Chuang et al.* [Paper](https://arxiv.org/pdf/2311.09665)
 
-* 🔥 [2024] **"OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents"**, *Y. Yan et al.* [Paper](https://arxiv.org/pdf/2410.21286)
+* 🔥 [2024] **"OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents"**, *Y. Yan et al.* [Paper](https://arxiv.org/pdf/2410.21286) - [Code](https://github.com/tsinghua-fib-lab/Anonymous-OpenCity)
 
 * 📖 [2024] **"Can Agents Spontaneously Form a Society? Introducing a Novel Architecture for Generative Multi-Agents to Elicit Social Emergence"**, *H. Zhang et al.* [Paper](https://dl.acm.org/doi/10.1145/3746058.3758414)
 
@@ -76,7 +76,7 @@ We welcome contributions from the community to help us expand and enrich this re
 
 * 🔥 [2024] **"Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory"**, *G. Dai et al.* [Paper](https://arxiv.org/pdf/2406.14373)
 
-* 🔥 📖 [2024] **"Emergence of Social Norms in Large Language Model-based Agent Societies"**, *S. Ren et al.* [Paper](https://dl.acm.org/doi/10.24963/ijcai.2024/874)
+* 🔥 📖 [2024] **"Emergence of Social Norms in Large Language Model-based Agent Societies"**, *S. Ren et al.* [Paper](https://dl.acm.org/doi/10.24963/ijcai.2024/874) - [Code](https://github.com/sxswz213/CRSEC)
 
 * 🔥 [2024] **"Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities"**, *T. Ju et al.* [Paper](https://arxiv.org/pdf/2407.07791)
 
@@ -90,9 +90,9 @@ We welcome contributions from the community to help us expand and enrich this re
 
 * [2025] **"AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society"**, *J. Piao et al.* [Paper](https://arxiv.org/pdf/2502.08691)
 
-* 🔥 📖 [2025] **"Investigating and Extending Homans' Social Exchange Theory with Large Language Model based Agents"**, *L. Wang et al.* [Paper](https://aclanthology.org/2025.acl-long.481.pdf)
+* 🔥 📖 [2025] **"Investigating and Extending Homans' Social Exchange Theory with Large Language Model based Agents"**, *L. Wang et al.* [Paper](https://aclanthology.org/2025.acl-long.481.pdf) - [Code](https://github.com/Paitesanshi/SET)
 
-* 🔥 📖 [2025] **"Cooperate or Collapse: Emergence of Sustainability Behaviors in a Society of LLM Agents"**, *G. Piatti et al.* [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ca9567d8ef6b2ea2da0d7eed57b933ee-Paper-Conference.pdf)
+* 🔥 📖 [2025] **"Cooperate or Collapse: Emergence of Sustainability Behaviors in a Society of LLM Agents"**, *G. Piatti et al.* [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ca9567d8ef6b2ea2da0d7eed57b933ee-Paper-Conference.pdf) - [Code](https://github.com/giorgiopiatti/GovSim)
 
 * 📖 [2025] **"Integrating Large Language Models into Agent Models for Multi-Agent Simulations: Preliminary Report"**, *H. Hattori et al.* [Paper](https://ieeexplore.ieee.org/document/10838923)
 
@@ -116,31 +116,31 @@ We welcome contributions from the community to help us expand and enrich this re
 
 * [2024] **"Large Language Model-driven Multi-Agent Simulation for News Diffusion Under Different Network Structures"**, *X. Li et al.* [Paper](https://arxiv.org/pdf/2410.13909)
 
-* [2024] **"A Simulation System Towards Solving Societal-Scale Manipulation"**, *M. P. Touzel et al.* [Paper](https://arxiv.org/pdf/2410.13915)
+* [2024] **"A Simulation System Towards Solving Societal-Scale Manipulation"**, *M. P. Touzel et al.* [Paper](https://arxiv.org/pdf/2410.13915) - [Code](https://github.com/sandbox-social/mastodon-sim)
 
 * 🔥 📖 [2025] **"Agent-Based Modelling Meets Generative AI in Social Network Simulations"**, *A. Ferraro et al.* [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78541-2_10)
 
-* 📖 [2025] **"Can Generative Agent-Based Modeling Replicate the Friendship Paradox in Social Media Simulations?"**, *G. M. Orlando et al.* [Paper](https://dl.acm.org/doi/full/10.1145/3717867.3717895)
+* 📖 [2025] **"Can Generative Agent-Based Modeling Replicate the Friendship Paradox in Social Media Simulations?"**, *G. M. Orlando et al.* [Paper](https://dl.acm.org/doi/full/10.1145/3717867.3717895) - [Code](https://github.com/PRAISELab-PicusLab/LLM-Agents-Simulation-Framework)
 
-* 🔥 📖 [2025] **"Network Formation and Dynamics among Multi-LLMs"**, *M. Papachristou et al.* [Paper](https://academic.oup.com/pnasnexus/article/4/12/pgaf317/8361967)
+* 🔥 📖 [2025] **"Network Formation and Dynamics among Multi-LLMs"**, *M. Papachristou et al.* [Paper](https://academic.oup.com/pnasnexus/article/4/12/pgaf317/8361967) - [Code](https://github.com/papachristoumarios/llm-network-formation)
 
 * 📖 [2025] **"Social opinions prediction utilizes fusing dynamics equation with LLM-based agents"**, *J. Yao et al.* [Paper](https://www.nature.com/articles/s41598-025-99704-3)
 
-* 📖 [2025] **"LLM-Based Multi-Agent Systems are Scalable Graph Generative Models"**, *J. Ji et al.* [Paper](https://aclanthology.org/2025.findings-acl.78/)
+* 📖 [2025] **"LLM-Based Multi-Agent Systems are Scalable Graph Generative Models"**, *J. Ji et al.* [Paper](https://aclanthology.org/2025.findings-acl.78/) - [Code](https://github.com/Ji-Cather/GraphAgent)
 
-* 🔥 📖 [2025] **"Decoding Echo Chambers: LLM-Powered Simulations Revealing Polarization in Social Networks"**, *C. Wang et al.* [Paper](https://aclanthology.org/2025.coling-main.264.pdf)
+* 🔥 📖 [2025] **"Decoding Echo Chambers: LLM-Powered Simulations Revealing Polarization in Social Networks"**, *C. Wang et al.* [Paper](https://aclanthology.org/2025.coling-main.264.pdf) - [Code](https://github.com/ZongfangLiu/EchoChamberSim)
 
 ### Economics
 
 * 📖 [2024] **"Can AI with High Reasoning Ability Replicate Human-like Decision Making in Economic Experiments?"**, *A. Kitadai et al.* [Paper](https://link.springer.com/article/10.1007/s10726-025-09946-9)
 
-* 🔥 📖 [2024] **"CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents"**, *Q. Zhao et al.* [Paper](https://dl.acm.org/doi/10.5555/3692070.3694596)
+* 🔥 📖 [2024] **"CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents"**, *Q. Zhao et al.* [Paper](https://dl.acm.org/doi/10.5555/3692070.3694596) - [Code](https://github.com/microsoft/competeai)
 
-* 🔥 📖 [2024] **"EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities"**, *N. Li et al.* [Paper](https://aclanthology.org/2024.acl-long.829.pdf)
+* 🔥 📖 [2024] **"EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities"**, *N. Li et al.* [Paper](https://aclanthology.org/2024.acl-long.829.pdf) - [Code](https://github.com/tsinghua-fib-lab/ACL24-EconAgent)
 
-* 📖 [2024] **"SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent"**, *J. Ji et al.* [Paper](https://aclanthology.org/2024.findings-emnlp.15.pdf)
+* 📖 [2024] **"SRAP-Agent: Simulating and Optimizing Scarce Resource Allocation Policy with LLM-based Agent"**, *J. Ji et al.* [Paper](https://aclanthology.org/2024.findings-emnlp.15.pdf) - [Code](https://github.com/Ji-Cather/SRAPAgent_Framework)
 
-* 🔥 [2024] **"When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments"**, *C. Zhang et al.* [Paper](https://arxiv.org/pdf/2407.18957)
+* 🔥 [2024] **"When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments"**, *C. Zhang et al.* [Paper](https://arxiv.org/pdf/2407.18957) - [Code](https://github.com/MingyuJ666/Stockagent)
 
 ## Frameworks
 

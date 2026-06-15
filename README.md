@@ -102,6 +102,10 @@ We welcome contributions from the community to help us expand and enrich this re
 
 * [2025] **"Unmasking Conversational Bias in AI Multiagent Systems"**, *E. Coppolillo et al.* [Paper](https://arxiv.org/pdf/2501.14844)
 
+* [2026] **"AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation"**, *N. Bougie et al.* [Paper](https://arxiv.org/pdf/2601.00930)
+
+* [2026] **"Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation"**, *N. Bougie et al.* [Paper](https://arxiv.org/pdf/2604.09549v2)
+
 ### Social Media
 
 * 🔥 [2023] **"S3: Social-network Simulation System with Large Language Model-Empowered Agents"**, *C. Gao et al.* [Paper](https://arxiv.org/abs/2307.14984)

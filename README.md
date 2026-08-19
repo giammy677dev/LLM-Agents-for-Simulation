@@ -40,6 +40,8 @@ We welcome contributions from the community to help us expand and enrich this re
 
 ### Social Dynamics
 
+* [2026] **"CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents"**, *N. Bougie et al.* [Paper](https://arxiv.org/abs/2608.16897)
+
 * 🔥📖 [2023] **"Generative Agents: Interactive Simulacra of Human Behavior"**, *J. S. Park et al.* [Paper](https://dl.acm.org/doi/abs/10.1145/3586183.3606763)
 
 * 🔥📖 [2023] **"Generative agent-based modeling: an introduction and tutorial"**, *N. Ghaffarzadegan et al.* [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/sdr.1761) - [Code](https://github.com/bear96/GABM-Tutorial-Models)
